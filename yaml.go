@@ -2,7 +2,7 @@ package yamladapter
 
 import (
 	"github.com/caddyserver/caddy/v2/caddyconfig"
-	"github.com/ghodss/yaml"
+	"sigs.k8s.io/yaml"
 )
 
 func init() {
